@@ -1,2 +1,2 @@
 # mujiaaa.github.io
-# map of my favorite place
+map of my favorite place
